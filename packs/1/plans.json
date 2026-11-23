@@ -1,0 +1,3933 @@
+[
+    {
+        "id": "plan-sys-full-body-3-continuous",
+        "i18nKey": "fullBody3Continuous",
+        "name": "Cuerpo completo (continuo)",
+        "microcycleLengthDays": 7,
+        "microcycles": [
+            {
+                "id": "plan-sys-full-body-3-continuous-m1",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-full-body-3-continuous-m2",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-full-body-3-continuous-m3",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-full-body-3-continuous-m4",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-full-body-3-continuous-m5",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-full-body-3-continuous-m6",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-full-body-3-continuous-m7",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-full-body-3-continuous-m8",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-full-body-3-continuous-m9",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-full-body-3-continuous-m10",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "plan-sys-full-body-3-phased",
+        "i18nKey": "fullBody3Phased",
+        "name": "Cuerpo completo (fases)",
+        "microcycleLengthDays": 7,
+        "phases": [
+            {
+                "id": "plan-sys-full-body-3-phased-accumulation",
+                "name": "Acumulación",
+                "type": "accumulation",
+                "microcycleCount": 4,
+                "targetRirRange": [
+                    3.0,
+                    1.0
+                ],
+                "volumeAdjustmentPct": 100.0
+            },
+            {
+                "id": "plan-sys-full-body-3-phased-intensification",
+                "name": "Intensificación",
+                "type": "intensification",
+                "microcycleCount": 2,
+                "targetRirRange": [
+                    2.0,
+                    0.0
+                ],
+                "volumeAdjustmentPct": 85.0
+            },
+            {
+                "id": "plan-sys-full-body-3-phased-deload",
+                "name": "Descarga",
+                "type": "deload",
+                "microcycleCount": 1,
+                "targetRirRange": [
+                    4.0,
+                    4.0
+                ],
+                "volumeAdjustmentPct": 50.0
+            }
+        ],
+        "microcycles": [
+            {
+                "id": "plan-sys-full-body-3-phased-m1",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-full-body-3-phased-accumulation",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-full-body-3-phased-m2",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-full-body-3-phased-accumulation",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-full-body-3-phased-m3",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-full-body-3-phased-accumulation",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-full-body-3-phased-m4",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-full-body-3-phased-accumulation",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-full-body-3-phased-m5",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-full-body-3-phased-intensification",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-full-body-3-phased-m6",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-full-body-3-phased-intensification",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-full-body-3-phased-m7",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-full-body-3-phased-deload",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Cuerpo completo B",
+                        "i18nKey": "fullBodyB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-jalon-pecho",
+                            "ex-prensa-de-piernas",
+                            "ex-face-pull",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Cuerpo completo A",
+                        "i18nKey": "fullBodyA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-press-banca-plano",
+                            "ex-remo-con-barra",
+                            "ex-curl-femoral-sentado",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "plan-sys-upper-lower-4-continuous",
+        "i18nKey": "upperLower4Continuous",
+        "name": "Torso y pierna (continuo)",
+        "microcycleLengthDays": 7,
+        "microcycles": [
+            {
+                "id": "plan-sys-upper-lower-4-continuous-m1",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-upper-lower-4-continuous-m2",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-upper-lower-4-continuous-m3",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-upper-lower-4-continuous-m4",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-upper-lower-4-continuous-m5",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-upper-lower-4-continuous-m6",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-upper-lower-4-continuous-m7",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-upper-lower-4-continuous-m8",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-upper-lower-4-continuous-m9",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-upper-lower-4-continuous-m10",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "plan-sys-upper-lower-4-phased",
+        "i18nKey": "upperLower4Phased",
+        "name": "Torso y pierna (fases)",
+        "microcycleLengthDays": 7,
+        "phases": [
+            {
+                "id": "plan-sys-upper-lower-4-phased-accumulation",
+                "name": "Acumulación",
+                "type": "accumulation",
+                "microcycleCount": 4,
+                "targetRirRange": [
+                    3.0,
+                    1.0
+                ],
+                "volumeAdjustmentPct": 100.0
+            },
+            {
+                "id": "plan-sys-upper-lower-4-phased-intensification",
+                "name": "Intensificación",
+                "type": "intensification",
+                "microcycleCount": 2,
+                "targetRirRange": [
+                    2.0,
+                    0.0
+                ],
+                "volumeAdjustmentPct": 85.0
+            },
+            {
+                "id": "plan-sys-upper-lower-4-phased-deload",
+                "name": "Descarga",
+                "type": "deload",
+                "microcycleCount": 1,
+                "targetRirRange": [
+                    4.0,
+                    4.0
+                ],
+                "volumeAdjustmentPct": 50.0
+            }
+        ],
+        "microcycles": [
+            {
+                "id": "plan-sys-upper-lower-4-phased-m1",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-upper-lower-4-phased-accumulation",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-upper-lower-4-phased-m2",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-upper-lower-4-phased-accumulation",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-upper-lower-4-phased-m3",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-upper-lower-4-phased-accumulation",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-upper-lower-4-phased-m4",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-upper-lower-4-phased-accumulation",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-upper-lower-4-phased-m5",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-upper-lower-4-phased-intensification",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-upper-lower-4-phased-m6",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-upper-lower-4-phased-intensification",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-upper-lower-4-phased-m7",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-upper-lower-4-phased-deload",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "plan-sys-legs-push-pull-5-continuous",
+        "i18nKey": "legsPushPull5Continuous",
+        "name": "Pierna, empuje, tirón, pierna y torso (continuo)",
+        "microcycleLengthDays": 7,
+        "microcycles": [
+            {
+                "id": "plan-sys-legs-push-pull-5-continuous-m1",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Empuje",
+                        "i18nKey": "push",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-aperturas-con-cable",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Tirón",
+                        "i18nKey": "pull",
+                        "exerciseIds": [
+                            "ex-jalon-pecho",
+                            "ex-remo-con-barra",
+                            "ex-remo-sentado-en-polea",
+                            "ex-face-pull",
+                            "ex-curl-con-barra-z",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-legs-push-pull-5-continuous-m2",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Empuje",
+                        "i18nKey": "push",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-aperturas-con-cable",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Tirón",
+                        "i18nKey": "pull",
+                        "exerciseIds": [
+                            "ex-jalon-pecho",
+                            "ex-remo-con-barra",
+                            "ex-remo-sentado-en-polea",
+                            "ex-face-pull",
+                            "ex-curl-con-barra-z",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-legs-push-pull-5-continuous-m3",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Empuje",
+                        "i18nKey": "push",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-aperturas-con-cable",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Tirón",
+                        "i18nKey": "pull",
+                        "exerciseIds": [
+                            "ex-jalon-pecho",
+                            "ex-remo-con-barra",
+                            "ex-remo-sentado-en-polea",
+                            "ex-face-pull",
+                            "ex-curl-con-barra-z",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-legs-push-pull-5-continuous-m4",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Empuje",
+                        "i18nKey": "push",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-aperturas-con-cable",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Tirón",
+                        "i18nKey": "pull",
+                        "exerciseIds": [
+                            "ex-jalon-pecho",
+                            "ex-remo-con-barra",
+                            "ex-remo-sentado-en-polea",
+                            "ex-face-pull",
+                            "ex-curl-con-barra-z",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-legs-push-pull-5-continuous-m5",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Empuje",
+                        "i18nKey": "push",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-aperturas-con-cable",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Tirón",
+                        "i18nKey": "pull",
+                        "exerciseIds": [
+                            "ex-jalon-pecho",
+                            "ex-remo-con-barra",
+                            "ex-remo-sentado-en-polea",
+                            "ex-face-pull",
+                            "ex-curl-con-barra-z",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-legs-push-pull-5-continuous-m6",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Empuje",
+                        "i18nKey": "push",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-aperturas-con-cable",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Tirón",
+                        "i18nKey": "pull",
+                        "exerciseIds": [
+                            "ex-jalon-pecho",
+                            "ex-remo-con-barra",
+                            "ex-remo-sentado-en-polea",
+                            "ex-face-pull",
+                            "ex-curl-con-barra-z",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-legs-push-pull-5-continuous-m7",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Empuje",
+                        "i18nKey": "push",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-aperturas-con-cable",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Tirón",
+                        "i18nKey": "pull",
+                        "exerciseIds": [
+                            "ex-jalon-pecho",
+                            "ex-remo-con-barra",
+                            "ex-remo-sentado-en-polea",
+                            "ex-face-pull",
+                            "ex-curl-con-barra-z",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-legs-push-pull-5-continuous-m8",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Empuje",
+                        "i18nKey": "push",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-aperturas-con-cable",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Tirón",
+                        "i18nKey": "pull",
+                        "exerciseIds": [
+                            "ex-jalon-pecho",
+                            "ex-remo-con-barra",
+                            "ex-remo-sentado-en-polea",
+                            "ex-face-pull",
+                            "ex-curl-con-barra-z",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-legs-push-pull-5-continuous-m9",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Empuje",
+                        "i18nKey": "push",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-aperturas-con-cable",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Tirón",
+                        "i18nKey": "pull",
+                        "exerciseIds": [
+                            "ex-jalon-pecho",
+                            "ex-remo-con-barra",
+                            "ex-remo-sentado-en-polea",
+                            "ex-face-pull",
+                            "ex-curl-con-barra-z",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-legs-push-pull-5-continuous-m10",
+                "lengthDays": 7,
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Empuje",
+                        "i18nKey": "push",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-aperturas-con-cable",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Tirón",
+                        "i18nKey": "pull",
+                        "exerciseIds": [
+                            "ex-jalon-pecho",
+                            "ex-remo-con-barra",
+                            "ex-remo-sentado-en-polea",
+                            "ex-face-pull",
+                            "ex-curl-con-barra-z",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "plan-sys-legs-push-pull-5-phased",
+        "i18nKey": "legsPushPull5Phased",
+        "name": "Pierna, empuje, tirón, pierna y torso (fases)",
+        "microcycleLengthDays": 7,
+        "phases": [
+            {
+                "id": "plan-sys-legs-push-pull-5-phased-accumulation",
+                "name": "Acumulación",
+                "type": "accumulation",
+                "microcycleCount": 4,
+                "targetRirRange": [
+                    3.0,
+                    1.0
+                ],
+                "volumeAdjustmentPct": 100.0
+            },
+            {
+                "id": "plan-sys-legs-push-pull-5-phased-intensification",
+                "name": "Intensificación",
+                "type": "intensification",
+                "microcycleCount": 2,
+                "targetRirRange": [
+                    2.0,
+                    0.0
+                ],
+                "volumeAdjustmentPct": 85.0
+            },
+            {
+                "id": "plan-sys-legs-push-pull-5-phased-deload",
+                "name": "Descarga",
+                "type": "deload",
+                "microcycleCount": 1,
+                "targetRirRange": [
+                    4.0,
+                    4.0
+                ],
+                "volumeAdjustmentPct": 50.0
+            }
+        ],
+        "microcycles": [
+            {
+                "id": "plan-sys-legs-push-pull-5-phased-m1",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-legs-push-pull-5-phased-accumulation",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Empuje",
+                        "i18nKey": "push",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-aperturas-con-cable",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Tirón",
+                        "i18nKey": "pull",
+                        "exerciseIds": [
+                            "ex-jalon-pecho",
+                            "ex-remo-con-barra",
+                            "ex-remo-sentado-en-polea",
+                            "ex-face-pull",
+                            "ex-curl-con-barra-z",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-legs-push-pull-5-phased-m2",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-legs-push-pull-5-phased-accumulation",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Empuje",
+                        "i18nKey": "push",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-aperturas-con-cable",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Tirón",
+                        "i18nKey": "pull",
+                        "exerciseIds": [
+                            "ex-jalon-pecho",
+                            "ex-remo-con-barra",
+                            "ex-remo-sentado-en-polea",
+                            "ex-face-pull",
+                            "ex-curl-con-barra-z",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-legs-push-pull-5-phased-m3",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-legs-push-pull-5-phased-accumulation",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Empuje",
+                        "i18nKey": "push",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-aperturas-con-cable",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Tirón",
+                        "i18nKey": "pull",
+                        "exerciseIds": [
+                            "ex-jalon-pecho",
+                            "ex-remo-con-barra",
+                            "ex-remo-sentado-en-polea",
+                            "ex-face-pull",
+                            "ex-curl-con-barra-z",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-legs-push-pull-5-phased-m4",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-legs-push-pull-5-phased-accumulation",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Empuje",
+                        "i18nKey": "push",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-aperturas-con-cable",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Tirón",
+                        "i18nKey": "pull",
+                        "exerciseIds": [
+                            "ex-jalon-pecho",
+                            "ex-remo-con-barra",
+                            "ex-remo-sentado-en-polea",
+                            "ex-face-pull",
+                            "ex-curl-con-barra-z",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-legs-push-pull-5-phased-m5",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-legs-push-pull-5-phased-intensification",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Empuje",
+                        "i18nKey": "push",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-aperturas-con-cable",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Tirón",
+                        "i18nKey": "pull",
+                        "exerciseIds": [
+                            "ex-jalon-pecho",
+                            "ex-remo-con-barra",
+                            "ex-remo-sentado-en-polea",
+                            "ex-face-pull",
+                            "ex-curl-con-barra-z",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-legs-push-pull-5-phased-m6",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-legs-push-pull-5-phased-intensification",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Empuje",
+                        "i18nKey": "push",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-aperturas-con-cable",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Tirón",
+                        "i18nKey": "pull",
+                        "exerciseIds": [
+                            "ex-jalon-pecho",
+                            "ex-remo-con-barra",
+                            "ex-remo-sentado-en-polea",
+                            "ex-face-pull",
+                            "ex-curl-con-barra-z",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            },
+            {
+                "id": "plan-sys-legs-push-pull-5-phased-m7",
+                "lengthDays": 7,
+                "phaseId": "plan-sys-legs-push-pull-5-phased-deload",
+                "daySlots": [
+                    {
+                        "dayIndex": 0,
+                        "isRest": false,
+                        "name": "Piernas A (cuádriceps)",
+                        "i18nKey": "legsA",
+                        "exerciseIds": [
+                            "ex-sentadilla-trasera-con-barra",
+                            "ex-prensa-de-piernas",
+                            "ex-sentadilla-bulgara-pc",
+                            "ex-extensiones-cuadriceps-maquina",
+                            "ex-elevacion-de-talones-de-pie"
+                        ]
+                    },
+                    {
+                        "dayIndex": 1,
+                        "isRest": false,
+                        "name": "Empuje",
+                        "i18nKey": "push",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-press-inclinado-mancuernas",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-aperturas-con-cable",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 2,
+                        "isRest": false,
+                        "name": "Tirón",
+                        "i18nKey": "pull",
+                        "exerciseIds": [
+                            "ex-jalon-pecho",
+                            "ex-remo-con-barra",
+                            "ex-remo-sentado-en-polea",
+                            "ex-face-pull",
+                            "ex-curl-con-barra-z",
+                            "ex-curl-con-mancuernas-en-banco-inclinado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 3,
+                        "isRest": true
+                    },
+                    {
+                        "dayIndex": 4,
+                        "isRest": false,
+                        "name": "Piernas B (isquios)",
+                        "i18nKey": "legsB",
+                        "exerciseIds": [
+                            "ex-peso-muerto-rumano-barra",
+                            "ex-hip-thrust-carga",
+                            "ex-curl-femoral-tumbado",
+                            "ex-zancada-inversa",
+                            "ex-elevacion-de-talones-sentado"
+                        ]
+                    },
+                    {
+                        "dayIndex": 5,
+                        "isRest": false,
+                        "name": "Tren superior",
+                        "i18nKey": "upperBody",
+                        "exerciseIds": [
+                            "ex-press-banca-plano",
+                            "ex-jalon-pecho",
+                            "ex-press-de-hombros-con-mancuernas",
+                            "ex-remo-sentado-en-polea",
+                            "ex-elevaciones-laterales-mancuerna",
+                            "ex-curl-con-barra-z",
+                            "ex-extension-triceps-polea-alta"
+                        ]
+                    },
+                    {
+                        "dayIndex": 6,
+                        "isRest": true
+                    }
+                ]
+            }
+        ]
+    }
+]

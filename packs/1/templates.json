@@ -1,0 +1,92 @@
+[
+    {
+        "id": "tpl-sys-legs-a",
+        "i18nKey": "legsA",
+        "name": "Piernas A (cuádriceps)",
+        "exerciseIds": [
+            "ex-sentadilla-trasera-con-barra",
+            "ex-prensa-de-piernas",
+            "ex-sentadilla-bulgara-pc",
+            "ex-extensiones-cuadriceps-maquina",
+            "ex-elevacion-de-talones-de-pie"
+        ]
+    },
+    {
+        "id": "tpl-sys-legs-b",
+        "i18nKey": "legsB",
+        "name": "Piernas B (isquios)",
+        "exerciseIds": [
+            "ex-peso-muerto-rumano-barra",
+            "ex-hip-thrust-carga",
+            "ex-curl-femoral-tumbado",
+            "ex-zancada-inversa",
+            "ex-elevacion-de-talones-sentado"
+        ]
+    },
+    {
+        "id": "tpl-sys-push",
+        "i18nKey": "push",
+        "name": "Empuje",
+        "exerciseIds": [
+            "ex-press-banca-plano",
+            "ex-press-inclinado-mancuernas",
+            "ex-press-de-hombros-con-mancuernas",
+            "ex-aperturas-con-cable",
+            "ex-elevaciones-laterales-mancuerna",
+            "ex-extension-triceps-polea-alta"
+        ]
+    },
+    {
+        "id": "tpl-sys-pull",
+        "i18nKey": "pull",
+        "name": "Tirón",
+        "exerciseIds": [
+            "ex-jalon-pecho",
+            "ex-remo-con-barra",
+            "ex-remo-sentado-en-polea",
+            "ex-face-pull",
+            "ex-curl-con-barra-z",
+            "ex-curl-con-mancuernas-en-banco-inclinado"
+        ]
+    },
+    {
+        "id": "tpl-sys-upper-body",
+        "i18nKey": "upperBody",
+        "name": "Tren superior",
+        "exerciseIds": [
+            "ex-press-banca-plano",
+            "ex-jalon-pecho",
+            "ex-press-de-hombros-con-mancuernas",
+            "ex-remo-sentado-en-polea",
+            "ex-elevaciones-laterales-mancuerna",
+            "ex-curl-con-barra-z",
+            "ex-extension-triceps-polea-alta"
+        ]
+    },
+    {
+        "id": "tpl-sys-full-body-a",
+        "i18nKey": "fullBodyA",
+        "name": "Cuerpo completo A",
+        "exerciseIds": [
+            "ex-sentadilla-trasera-con-barra",
+            "ex-press-banca-plano",
+            "ex-remo-con-barra",
+            "ex-curl-femoral-sentado",
+            "ex-elevaciones-laterales-mancuerna",
+            "ex-extension-triceps-polea-alta"
+        ]
+    },
+    {
+        "id": "tpl-sys-full-body-b",
+        "i18nKey": "fullBodyB",
+        "name": "Cuerpo completo B",
+        "exerciseIds": [
+            "ex-peso-muerto-rumano-barra",
+            "ex-press-inclinado-mancuernas",
+            "ex-jalon-pecho",
+            "ex-prensa-de-piernas",
+            "ex-face-pull",
+            "ex-curl-con-mancuernas-en-banco-inclinado"
+        ]
+    }
+]

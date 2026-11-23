@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "contentVersion": 1,
+    "minAppVersion": "1.0.0",
+    "date": "2026-11-23",
+    "files": {
+        "exercises.json": "214874d09187bdc1a2fa3fee90bb36e3608e3d9f05afb4d3b804ff34f3ddc07b",
+        "templates.json": "6927e2906d3caffedec35c6e519a86d1b8c032b1e4906d262b6603467a9136d8",
+        "plans.json": "0f465d188defe8fbef0605d2850f63acf9674f5a0fdab12f44d49d9203f74f99",
+        "labels-es.json": "a0caa7202398ef4f67f62ca6def20bd1d1142af2b2ff9c932a5eb1dfd43ec12c",
+        "labels-en.json": "07c787c62d2f903f03582c93cfdf0cbfcff008146385f574da4cdf83b6b27db9"
+    }
+}
